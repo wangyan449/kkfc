@@ -3,6 +3,6 @@ public class MealBuilder_2 extends MealBuilder{
 		meal.setFood("一个鸡肉卷");
 	}
 	public void buildDrink(){
-		 meal.setDrink("一杯果汁");
+		 meal.setDrink("可口可乐");
 	}
 }
