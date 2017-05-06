@@ -1,0 +1,7 @@
+
+public class MealBuilder_3 extends MealBuilder{
+	public void buildFood(){
+		meal.setFood("芝士帕尼尼");
+public void buildDrink(){
+		 meal.setDrink("雪碧");
+}
